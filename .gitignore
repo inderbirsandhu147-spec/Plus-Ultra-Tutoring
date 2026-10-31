@@ -1,8 +1,0 @@
-node_modules/
-.firebase/
-*-debug.log
-*.zip
-.env*
-*service-account*.json
-*adminsdk*.json
-cors.json

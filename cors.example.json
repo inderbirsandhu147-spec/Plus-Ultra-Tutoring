@@ -1,7 +1,0 @@
-[
-  {
-    "origin": ["https://YOUR_GITHUB_USERNAME.github.io", "https://YOUR_PROJECT.web.app", "http://127.0.0.1:4173"],
-    "method": ["GET"],
-    "maxAgeSeconds": 3600
-  }
-]
